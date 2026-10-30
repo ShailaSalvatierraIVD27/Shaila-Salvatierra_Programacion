@@ -1,0 +1,32 @@
+C:\Users\carlo\source\repos\Problema1_Shaila\Problema1_Shaila\bin\Debug\net8.0-windows\Problema1_Shaila.exe
+C:\Users\carlo\source\repos\Problema1_Shaila\Problema1_Shaila\bin\Debug\net8.0-windows\Problema1_Shaila.deps.json
+C:\Users\carlo\source\repos\Problema1_Shaila\Problema1_Shaila\bin\Debug\net8.0-windows\Problema1_Shaila.runtimeconfig.json
+C:\Users\carlo\source\repos\Problema1_Shaila\Problema1_Shaila\bin\Debug\net8.0-windows\Problema1_Shaila.dll
+C:\Users\carlo\source\repos\Problema1_Shaila\Problema1_Shaila\bin\Debug\net8.0-windows\Problema1_Shaila.pdb
+C:\Users\carlo\source\repos\Problema1_Shaila\Problema1_Shaila\obj\Debug\net8.0-windows\Problema1_Shaila.Form1.resources
+C:\Users\carlo\source\repos\Problema1_Shaila\Problema1_Shaila\obj\Debug\net8.0-windows\Problema1_Shaila.csproj.GenerateResource.cache
+C:\Users\carlo\source\repos\Problema1_Shaila\Problema1_Shaila\obj\Debug\net8.0-windows\Problema1_Shaila.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\carlo\source\repos\Problema1_Shaila\Problema1_Shaila\obj\Debug\net8.0-windows\Problema1_Shaila.AssemblyInfoInputs.cache
+C:\Users\carlo\source\repos\Problema1_Shaila\Problema1_Shaila\obj\Debug\net8.0-windows\Problema1_Shaila.AssemblyInfo.cs
+C:\Users\carlo\source\repos\Problema1_Shaila\Problema1_Shaila\obj\Debug\net8.0-windows\Problema1_Shaila.csproj.CoreCompileInputs.cache
+C:\Users\carlo\source\repos\Problema1_Shaila\Problema1_Shaila\obj\Debug\net8.0-windows\Problema1_Shaila.dll
+C:\Users\carlo\source\repos\Problema1_Shaila\Problema1_Shaila\obj\Debug\net8.0-windows\refint\Problema1_Shaila.dll
+C:\Users\carlo\source\repos\Problema1_Shaila\Problema1_Shaila\obj\Debug\net8.0-windows\Problema1_Shaila.pdb
+C:\Users\carlo\source\repos\Problema1_Shaila\Problema1_Shaila\obj\Debug\net8.0-windows\Problema1_Shaila.genruntimeconfig.cache
+C:\Users\carlo\source\repos\Problema1_Shaila\Problema1_Shaila\obj\Debug\net8.0-windows\ref\Problema1_Shaila.dll
+C:\Users\carlo\OneDrive Ilan Gmail\OneDrive\2026\a\Problema1_Shaila\Problema1_Shaila\bin\Debug\net8.0-windows\Problema1_Shaila.exe
+C:\Users\carlo\OneDrive Ilan Gmail\OneDrive\2026\a\Problema1_Shaila\Problema1_Shaila\bin\Debug\net8.0-windows\Problema1_Shaila.deps.json
+C:\Users\carlo\OneDrive Ilan Gmail\OneDrive\2026\a\Problema1_Shaila\Problema1_Shaila\bin\Debug\net8.0-windows\Problema1_Shaila.runtimeconfig.json
+C:\Users\carlo\OneDrive Ilan Gmail\OneDrive\2026\a\Problema1_Shaila\Problema1_Shaila\bin\Debug\net8.0-windows\Problema1_Shaila.dll
+C:\Users\carlo\OneDrive Ilan Gmail\OneDrive\2026\a\Problema1_Shaila\Problema1_Shaila\bin\Debug\net8.0-windows\Problema1_Shaila.pdb
+C:\Users\carlo\OneDrive Ilan Gmail\OneDrive\2026\a\Problema1_Shaila\Problema1_Shaila\obj\Debug\net8.0-windows\Problema1_Shaila.Form1.resources
+C:\Users\carlo\OneDrive Ilan Gmail\OneDrive\2026\a\Problema1_Shaila\Problema1_Shaila\obj\Debug\net8.0-windows\Problema1_Shaila.csproj.GenerateResource.cache
+C:\Users\carlo\OneDrive Ilan Gmail\OneDrive\2026\a\Problema1_Shaila\Problema1_Shaila\obj\Debug\net8.0-windows\Problema1_Shaila.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\carlo\OneDrive Ilan Gmail\OneDrive\2026\a\Problema1_Shaila\Problema1_Shaila\obj\Debug\net8.0-windows\Problema1_Shaila.AssemblyInfoInputs.cache
+C:\Users\carlo\OneDrive Ilan Gmail\OneDrive\2026\a\Problema1_Shaila\Problema1_Shaila\obj\Debug\net8.0-windows\Problema1_Shaila.AssemblyInfo.cs
+C:\Users\carlo\OneDrive Ilan Gmail\OneDrive\2026\a\Problema1_Shaila\Problema1_Shaila\obj\Debug\net8.0-windows\Problema1_Shaila.csproj.CoreCompileInputs.cache
+C:\Users\carlo\OneDrive Ilan Gmail\OneDrive\2026\a\Problema1_Shaila\Problema1_Shaila\obj\Debug\net8.0-windows\Problema1_Shaila.dll
+C:\Users\carlo\OneDrive Ilan Gmail\OneDrive\2026\a\Problema1_Shaila\Problema1_Shaila\obj\Debug\net8.0-windows\refint\Problema1_Shaila.dll
+C:\Users\carlo\OneDrive Ilan Gmail\OneDrive\2026\a\Problema1_Shaila\Problema1_Shaila\obj\Debug\net8.0-windows\Problema1_Shaila.pdb
+C:\Users\carlo\OneDrive Ilan Gmail\OneDrive\2026\a\Problema1_Shaila\Problema1_Shaila\obj\Debug\net8.0-windows\Problema1_Shaila.genruntimeconfig.cache
+C:\Users\carlo\OneDrive Ilan Gmail\OneDrive\2026\a\Problema1_Shaila\Problema1_Shaila\obj\Debug\net8.0-windows\ref\Problema1_Shaila.dll
